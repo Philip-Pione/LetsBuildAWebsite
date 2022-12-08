@@ -16,4 +16,4 @@ Please feel free to contact me with any questions via email or LinkedIn.
 <br>
 Role: Sole author
 <br>
-Tools used: CSS, HTML, GitHub, GitBash.
+Tools used: CSS, HTML, GitHub, GitBash, Bootstrap.
